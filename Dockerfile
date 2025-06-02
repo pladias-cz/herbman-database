@@ -1,4 +1,4 @@
-FROM ghcr.io/pladias-cz/database-base:main@sha256:2ddf4b0516da3c42259113660de1a06dbbba3b2641d1b3d7ef1e414836cce3b8
+FROM ghcr.io/pladias-cz/database-base:main@sha256:f5ecd5f17fc0a7267d6e2b987605c2fddfdd08600bce1268349fe6020530a570
 
 LABEL org.opencontainers.image.source=https://github.com/pladias-cz/herbman-database
 LABEL org.opencontainers.image.description="Postgres/PostGIS base image for Herbman app"
